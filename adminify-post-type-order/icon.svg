@@ -1,0 +1,19 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_11028_3642)">
+<path d="M150 300C232.843 300 300 232.843 300 150C300 67.1573 232.843 0 150 0C67.1573 0 0 67.1573 0 150C0 232.843 67.1573 300 150 300Z" fill="#2970FF"/>
+<path d="M60 126C60 121.582 63.5817 118 68 118H232C236.418 118 240 121.582 240 126V174C240 178.418 236.418 182 232 182H68C63.5817 182 60 178.418 60 174V126Z" fill="white"/>
+<path d="M72 98C72 93.5817 75.5817 90 80 90H220C224.418 90 228 93.5817 228 98V114H72V98Z" fill="white"/>
+<path d="M72 202C72 206.418 75.5817 210 80 210H220C224.418 210 228 206.418 228 202V186H72V202Z" fill="white"/>
+<path d="M80 78C80 73.5817 83.5817 70 88 70H212C216.418 70 220 73.5817 220 78V86H80V78Z" fill="white"/>
+<path d="M80 222C80 226.418 83.5817 230 88 230H212C216.418 230 220 226.418 220 222V214H80V222Z" fill="white"/>
+<rect x="86" y="132" width="36" height="36" rx="4" fill="#FF692E"/>
+<rect x="136" y="135" width="80" height="8" rx="4" fill="#2970FF"/>
+<rect x="136" y="147" width="64" height="8" rx="4" fill="#2970FF"/>
+<rect x="136" y="159" width="32" height="8" rx="4" fill="#2970FF"/>
+</g>
+<defs>
+<clipPath id="clip0_11028_3642">
+<rect width="300" height="300" fill="white"/>
+</clipPath>
+</defs>
+</svg>
