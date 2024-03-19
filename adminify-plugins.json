@@ -15,6 +15,21 @@
         }
     },
     {
+        "care-hub": {
+            "slug": "care-hub",
+            "name": "Care Hub",
+            "short_description": "Gutenberg is now a reality. Easy Blocks is a growing Gutenberg Block Plugin. It’s easy to create multiple columns variations within a single row. Drag and Drop columns size variations gives you more controls over your website. We’re calling it as a Gutenberg Page Builder. If you are using Gutenberg Editor, then you can try this plugin to get maximum customization possibilities.",
+            "icon": "https://raw.githubusercontent.com/litonarefin/adminify-addons-assets/main/adminify-notification-bar/icon.svg",
+            "download_link": "https://rnd.local/wp-content/adminify-update-checker/?plugin_slug=adminify-notification-bar&action=download_plugin&version=1.0.2",
+            "type": [
+                "all",
+                "featured",
+                "favorites"
+            ],
+            "version": "1.4.1.3"
+        }
+    },
+    {
         "master-addons": {
             "slug": "master-addons",
             "name": "Master Addons for Elementor",
