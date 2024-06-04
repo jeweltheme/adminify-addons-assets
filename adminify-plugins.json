@@ -1,14 +1,31 @@
 [
     {
-        "adminify-notification-bar": {
-            "slug": "adminify-notification-bar",
-            "name": "Notification Bar",
-            "short_description": "Gutenberg is now a reality. Easy Blocks is a growing Gutenberg Block Plugin. It’s easy to create multiple columns variations within a single row. Drag and Drop columns size variations gives you more controls over your website. We’re calling it as a Gutenberg Page Builder. If you are using Gutenberg Editor, then you can try this plugin to get maximum customization possibilities.",
-            "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-notification-bar/icon.svg",
-            "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-notification-bar&action=download_plugin&version=1.0.2",
+        "loginfy": {
+            "slug": "loginfy",
+            "name": "Loginfy",
+            "short_description": "Easily customize WordPress Login page, providing a unique and personalized experience for website administrators and users.",
+            "icon": "https://ps.w.org/loginfy/assets/icon.svg",
+            "download_link": "https://downloads.wordpress.org/plugin/loginfy.zip",
             "type": [
                 "all",
                 "featured",
+                "popular",
+                "favorites"
+            ],
+            "version": "1.2.3"
+        }
+    },
+    {
+        "rolemaster-suite": {
+            "slug": "rolemaster-suite",
+            "name": "RoleMaster Suite",
+            "short_description": "User Role Editor plugin for WordPress that allows website administrators with the ability to fine-tune user roles and capabilities with precision.",
+            "icon": "https://ps.w.org/rolemaster-suite/assets/icon.svg",
+            "download_link": "https://downloads.wordpress.org/plugin/rolemaster-suite.zip",
+            "type": [
+                "all",
+                "featured",
+                "popular",
                 "favorites"
             ],
             "version": "1.0.0"
@@ -88,38 +105,6 @@
                 "favorites"
             ],
             "version": "1.0.0"
-        }
-    },
-    {
-        "rolemaster-suite": {
-            "slug": "rolemaster-suite",
-            "name": "RoleMaster Suite",
-            "short_description": "User Role Editor plugin for WordPress that allows website administrators with the ability to fine-tune user roles and capabilities with precision.",
-            "icon": "https://ps.w.org/rolemaster-suite/assets/icon.svg",
-            "download_link": "https://downloads.wordpress.org/plugin/rolemaster-suite.zip",
-            "type": [
-                "all",
-                "featured",
-                "popular",
-                "favorites"
-            ],
-            "version": "1.0.0"
-        }
-    },
-    {
-        "loginfy": {
-            "slug": "loginfy",
-            "name": "Loginfy",
-            "short_description": "Easily customize WordPress Login page, providing a unique and personalized experience for website administrators and users.",
-            "icon": "https://ps.w.org/loginfy/assets/icon.svg",
-            "download_link": "https://downloads.wordpress.org/plugin/loginfy.zip",
-            "type": [
-                "all",
-                "featured",
-                "popular",
-                "favorites"
-            ],
-            "version": "1.2.3"
         }
     }
 ]
