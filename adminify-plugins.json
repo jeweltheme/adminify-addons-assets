@@ -109,9 +109,9 @@
     {
         "loginfy": {
             "slug": "loginfy",
-            "name": "WordPress loginfy",
+            "name": "Loginfy",
             "short_description": "Easily customize WordPress Login page, providing a unique and personalized experience for website administrators and users.",
-            "icon": "https://ps.w.org/loginfy/assets/icon-256x256.png",
+            "icon": "https://ps.w.org/loginfy/assets/icon.svg",
             "download_link": "https://downloads.wordpress.org/plugin/loginfy.zip",
             "type": [
                 "all",
