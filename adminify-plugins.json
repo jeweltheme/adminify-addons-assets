@@ -52,7 +52,7 @@
             "name": "Admin Columns Editor",
             "short_description": "Admin Columns Editor Desc",
             "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-admin-columns/icon.svg",
-            "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-admin-columns&action=download_plugin&version=1.0.2",
+            "download_link": "https://rnd.local/wp-content/adminify-update-checker/?plugin_slug=adminify-admin-columns&action=download_plugin&version=1.0.2",
             "type": [
                 "all",
                 "featured",
