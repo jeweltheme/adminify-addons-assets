@@ -32,6 +32,21 @@
         }
     },
     {
+        "adminify-activity-logs": {
+            "slug": "adminify-activity-logs",
+            "name": "Activity Logs",
+            "short_description": "Activity Logs",
+            "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-activity-logs/icon.svg",
+            "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-activity-logs&action=download_plugin&version=1.0.2",
+            "type": [
+                "all",
+                "featured",
+                "favorites"
+            ],
+            "version": "1.0.0"
+        }
+    },
+    {
         "adminify-disable-comments": {
             "slug": "adminify-disable-comments",
             "name": "Disable Comments",
@@ -126,11 +141,40 @@
             "slug": "master-addons",
             "name": "Master Addons",
             "short_description": "Master Addons Desc",
-            "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/master-addons/icon.svg",
+            "icon": "https://ps.w.org/master-addons/assets/icon.svg",
+            "download_link": "https://downloads.wordpress.org/plugin/master-addons.zip",
+            "type": [
+                "all",
+                "recommended"
+            ],
+            "version": "1.0.0"
+        }
+    },
+    {
+        "adminify-notification-bar": {
+            "slug": "adminify-notification-bar",
+            "name": "Notification Bar",
+            "short_description": "Notification Bar Desc",
+            "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-notification-bar/icon.svg",
             "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=master-addons&action=download_plugin&version=1.0.2",
             "type": [
                 "all",
                 "recommended"
+            ],
+            "version": "1.0.0"
+        }
+    },
+    {
+        "adminify-sidebar-generator": {
+            "slug": "adminify-sidebar-generator",
+            "name": "Sidebar Generator",
+            "short_description": "Sidebar Generator Desc",
+            "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-sidebar-generator/icon.svg",
+            "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=master-addons&action=download_plugin&version=1.0.2",
+            "type": [
+                "all",
+                "featured",
+                "favorites"
             ],
             "version": "1.0.0"
         }
