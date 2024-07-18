@@ -1,29 +1,42 @@
 [
     {
-        "icon": "https://ps.w.org/loginfy/assets/icon.svg",
-        "name": "Loginfy",
-        "slug": "loginfy",
+        "icon": "https://ps.w.org/admin-bar/assets/icon.svg",
+        "name": "Admin Bar Editor",
+        "slug": "admin-bar",
         "type": [
             "all",
             "featured",
             "popular",
             "favorites"
         ],
-        "download_link": "https://downloads.wordpress.org/plugin/loginfy.zip",
-        "short_description": "Easily customize WordPress Login page, providing a unique and personalized experience for website administrators and users."
+        "download_link"    : "https://downloads.wordpress.org/plugin/admin-bar.zip",
+        "short_description": "The Admin Bar Editor plugin revolutionizes the way you interact with the WordPress Admin Bar, also known as the Toolbar."
     },
     {
-        "icon": "https://ps.w.org/rolemaster-suite/assets/icon.svg",
-        "name": "RoleMaster Suite",
-        "slug": "rolemaster-suite",
-        "type": [
+        "icon"             : "https://ps.w.org/loginfy/assets/icon.svg",
+        "name"             : "Loginfy",
+        "short_description": "Easily customize WordPress Login page, providing a unique and personalized experience for website administrators and users.",
+        "slug"             : "loginfy",
+        "type"             : [
             "all",
             "featured",
             "popular",
             "favorites"
         ],
-        "download_link": "https://downloads.wordpress.org/plugin/rolemaster-suite.zip",
-        "short_description": "User Role Editor plugin for WordPress that allows website administrators with the ability to fine-tune user roles and capabilities with precision."
+        "download_link": "https://downloads.wordpress.org/plugin/loginfy.zip"
+    },
+    {
+        "icon"             : "https://ps.w.org/rolemaster-suite/assets/icon.svg",
+        "name"             : "RoleMaster Suite",
+        "short_description": "User Role Editor plugin for WordPress that allows website administrators with the ability to fine-tune user roles and capabilities with precision.",
+        "slug"             : "rolemaster-suite",
+        "type"             : [
+            "all",
+            "featured",
+            "popular",
+            "favorites"
+        ],
+        "download_link": "https://downloads.wordpress.org/plugin/rolemaster-suite.zip"
     },
     {
         "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-activity-logs/icon.svg",
@@ -34,35 +47,22 @@
             "featured",
             "favorites"
         ],
-        "version": "1.0.0",
-        "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-activity-logs&action=download_plugin",
-        "short_description": "Activity Logs"
+        "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-activity-logs&action=download_plugin",
+        "short_description": "Activity Logs",
+        "version"          : "1.0.0"
     },
     {
-        "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-disable-comments/icon.svg",
-        "name": "Disable Comments",
-        "slug": "adminify-disable-comments",
-        "type": [
+        "icon"             : "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-admin-columns/icon.svg",
+        "name"             : "Admin Columns Editor",
+        "short_description": "Admin Columns Editor Desc",
+        "slug"             : "adminify-admin-columns",
+        "type"             : [
             "all",
             "featured",
             "favorites"
         ],
-        "version": "1.0.2",
-        "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-disable-comments&action=download_plugin",
-        "short_description": "Disable Comments"
-    },
-    {
-        "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-admin-columns/icon.svg",
-        "name": "Admin Columns Editor",
-        "slug": "adminify-admin-columns",
-        "type": [
-            "all",
-            "featured",
-            "favorites"
-        ],
-        "version": "1.0.4",
         "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-admin-columns&action=download_plugin",
-        "short_description": "Admin Columns Editor Desc"
+        "version"      : "1.0.4"
     },
     {
         "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-google-pagespeed/icon.svg",
@@ -73,69 +73,9 @@
             "featured",
             "favorites"
         ],
-        "version": "1.0.0",
-        "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-google-pagespeed&action=download_plugin&version=1.0.0",
-        "short_description": "Google Pagespeed Desc"
-    },
-    {
-        "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-header-footer-scripts/icon.svg",
-        "name": "Header & Footer Script",
-        "slug": "adminify-header-footer-scripts",
-        "type": [
-            "all",
-            "featured",
-            "favorites"
-        ],
-        "version": "1.0.2",
-        "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-header-footer-scripts&action=download_plugin",
-        "short_description": "Header & Footer Script Desc"
-    },
-    {
-        "icon": "https://ps.w.org/admin-bar/assets/icon.svg",
-        "name": "Admin Bar Editor",
-        "slug": "admin-bar",
-        "type": [
-            "all",
-            "featured",
-            "popular",
-            "favorites"
-        ],
-        "download_link": "https://downloads.wordpress.org/plugin/admin-bar.zip",
-        "short_description": "The Admin Bar Editor plugin revolutionizes the way you interact with the WordPress Admin Bar, also known as the Toolbar."
-    },
-    {
-        "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/care-hub/icon.svg",
-        "name": "Care Hub",
-        "slug": "care-hub",
-        "type": [
-            "all",
-            "recommended"
-        ],
-        "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=care-hub&action=download_plugin",
-        "short_description": "Care Hub Desc"
-    },
-    {
-        "icon": "https://ps.w.org/master-addons/assets/icon.svg",
-        "name": "Master Addons",
-        "slug": "master-addons",
-        "type": [
-            "all",
-            "recommended"
-        ],
-        "download_link": "https://downloads.wordpress.org/plugin/master-addons.zip",
-        "short_description": "Master Addons Desc"
-    },
-    {
-        "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-notification-bar/icon.svg",
-        "name": "Notification Bar",
-        "slug": "adminify-notification-bar",
-        "type": [
-            "all",
-            "recommended"
-        ],
-        "version": "1.0.2",
-        "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-notification-bar&action=download_plugin",
-        "short_description": "Notification Bar Desc"
+        "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-google-pagespeed&action=download_plugin",
+        "short_description": "Google Pagespeed Desc",
+        "version"          : "1.0.0"
     },
     {
         "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-sidebar-generator/icon.svg",
@@ -146,8 +86,19 @@
             "featured",
             "favorites"
         ],
-        "version": "1.0.2",
-        "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=master-addons&action=download_plugin",
-        "short_description": "Sidebar Generator Desc"
+        "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=master-addons&action=download_plugin",
+        "short_description": "Sidebar Generator Desc",
+        "version"          : "1.0.2"
+    },
+    {
+        "icon": "https://ps.w.org/master-addons/assets/icon.svg",
+        "name": "Master Addons",
+        "slug": "master-addons",
+        "type": [
+            "all",
+            "recommended"
+        ],
+        "download_link"    : "https://downloads.wordpress.org/plugin/master-addons.zip",
+        "short_description": "Master Addons for Elementor"
     }
 ]
