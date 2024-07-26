@@ -99,7 +99,7 @@
             "featured",
             "favorites"
         ],
-        "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=master-addons&action=download_plugin",
+        "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-sidebar-generator&action=download_plugin",
         "short_description": "Sidebar Generator Desc",
         "version"          : "1.0.2"
     },
