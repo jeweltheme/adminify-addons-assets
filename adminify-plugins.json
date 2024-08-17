@@ -10,12 +10,12 @@
             "favorites"
         ],
         "download_link"    : "https://downloads.wordpress.org/plugin/admin-bar.zip",
-        "short_description": "The Admin Bar Editor plugin revolutionizes the way you interact with the WordPress Admin Bar, also known as the Toolbar."
+        "short_description": "Customize your WordPress Admin Toolbar by adding, hiding, or modifying menu items. Set visibility by user roles and rearrange with drag-and-drop."
     },
     {
         "icon"             : "https://ps.w.org/loginfy/assets/icon.svg",
         "name"             : "Loginfy",
-        "short_description": "Easily customize WordPress Login page, providing a unique and personalized experience for website administrators and users.",
+        "short_description": "Customize every element of your WordPress login page. Enjoy responsive design, advanced options, and real-time previews for unique login experiences.",
         "slug"             : "loginfy",
         "type"             : [
             "all",
@@ -48,7 +48,7 @@
             "favorites"
         ],
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-activity-logs&action=download_plugin",
-        "short_description": "Activity Logs",
+        "short_description": "Enhance WP Adminify with detailed activity tracking. Monitor user actions, view logs, track changes, widgets, menus, comments, attachments, and more.",
         "version"          : "1.0.0"
     },
     {
@@ -61,13 +61,13 @@
             "favorites"
         ],
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-header-footer-scripts&action=download_plugin",
-        "short_description": "Header & Footer Scripts",
+        "short_description": "Easily add custom scripts to your WordPress site's header or footer using an intuitive user interface. Perfect for analytics, custom CSS, and more.",
         "version"          : "1.0.0"
     },
     {
         "icon"             : "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-admin-columns/icon.svg",
         "name"             : "Admin Columns Editor",
-        "short_description": "Admin Columns Editor Desc",
+        "short_description": "Customize admin columns effortlessly. Add, remove, or reorder columns for any post type. Integrates easily with WooCommerce, ACF, Pods, and Metabox.",
         "slug"             : "adminify-admin-columns",
         "type"             : [
             "all",
@@ -87,7 +87,7 @@
             "favorites"
         ],
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-google-pagespeed&action=download_plugin",
-        "short_description": "Google Pagespeed Desc",
+        "short_description": "Track webpage speed from your dashboard with Google Pagespeed Insights. Get mobile and desktop reports, view history, and manage access by user roles.",
         "version"          : "1.0.0"
     },
     {
@@ -100,7 +100,7 @@
             "favorites"
         ],
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-sidebar-generator&action=download_plugin",
-        "short_description": "Sidebar Generator Desc",
+        "short_description": "Create unlimited custom sidebars with WP Adminify. Requires the Classic Widgets plugin. Easily name, rearrange, manage and delete all your sidebars.",
         "version"          : "1.0.2"
     },
     {
