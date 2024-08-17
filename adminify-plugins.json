@@ -104,6 +104,19 @@
         "version"          : "1.0.2"
     },
     {
+        "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-quick-circle-menu/icon.svg",
+        "name": "Quick Menu",
+        "slug": "adminify-quick-circle-menu",
+        "type": [
+            "all",
+            "featured",
+            "favorites"
+        ],
+        "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-quick-circle-menu&action=download_plugin",
+        "short_description": "Adminify Quick Menu - bottom right position for nagivating Menus quickly",
+        "version"          : "1.0.0"
+    },
+    {
         "icon": "https://ps.w.org/master-addons/assets/icon.svg",
         "name": "Master Addons",
         "slug": "master-addons",
