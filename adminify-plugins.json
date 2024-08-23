@@ -62,7 +62,7 @@
         ],
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-header-footer-scripts&action=download_plugin",
         "short_description": "Easily add custom scripts to your WordPress site's header or footer using an intuitive user interface. Perfect for analytics, custom CSS, and more.",
-        "version"          : "1.0.0"
+        "version"          : "1.0.1"
     },
     {
         "icon"             : "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-admin-columns/icon.svg",
