@@ -10,6 +10,8 @@
             "favorites"
         ],
         "download_link"    : "https://downloads.wordpress.org/plugin/admin-bar.zip",
+        "view_details"     : "https://jeweltheme.com/admin-bar-editor",
+        "pricing_url"      : "https://jeweltheme.com/admin-bar-editor#pricing_plan",
         "short_description": "Customize your WordPress Admin Toolbar by adding, hiding, or modifying menu items. Set visibility by user roles and rearrange with drag-and-drop."
     },
     {
@@ -23,6 +25,8 @@
             "popular",
             "favorites"
         ],
+        "view_details" : "https://wpadminify.com/login-customizer/",
+        "pricing_url"  : "https://wpadminify.com/login-customizer/#pricing",
         "download_link": "https://downloads.wordpress.org/plugin/loginfy.zip"
     },
     {
@@ -47,6 +51,8 @@
             "featured",
             "favorites"
         ],
+        "view_details" : "https://wpadminify.com/modules/activity-logs/",
+        "pricing_url"  : "",
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-activity-logs&action=download_plugin",
         "short_description": "Enhance WP Adminify with detailed activity tracking. Monitor user actions, view logs, track changes, widgets, menus, comments, attachments, and more.",
         "version"          : "1.0.0"
@@ -60,6 +66,8 @@
             "featured",
             "favorites"
         ],
+        "view_details" : "https://wpadminify.com/modules/header-footer-scripts/",
+        "pricing_url"  : "https://wpadminify.com/modules/header-footer-scripts/#pricing",
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-header-footer-scripts&action=download_plugin",
         "short_description": "Easily add custom scripts to your WordPress site's header or footer using an intuitive user interface. Perfect for analytics, custom CSS, and more.",
         "version"          : "1.0.2"
@@ -74,6 +82,8 @@
             "featured",
             "favorites"
         ],
+        "view_details" : "https://wpadminify.com/modules/admin-columns/",
+        "pricing_url"  : "https://wpadminify.com/modules/admin-columns/#pricing",
         "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-admin-columns&action=download_plugin",
         "version"      : "1.0.4"
     },
@@ -86,6 +96,8 @@
             "featured",
             "favorites"
         ],
+        "view_details"     : "https://wpadminify.com/modules/admin-columns/",
+        "pricing_url"      : "https://wpadminify.com/modules/admin-columns/#pricing",
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-google-pagespeed&action=download_plugin",
         "short_description": "Track webpage speed from your dashboard with Google Pagespeed Insights. Get mobile and desktop reports, view history, and manage access by user roles.",
         "version"          : "1.0.0"
@@ -99,6 +111,8 @@
             "featured",
             "favorites"
         ],
+        "view_details"     : "https://wpadminify.com/modules/google-pagespeed-insights/",
+        "pricing_url"      : "https://wpadminify.com/modules/google-pagespeed-insights/#pricing",
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-sidebar-generator&action=download_plugin",
         "short_description": "Create unlimited custom sidebars with WP Adminify. Requires the Classic Widgets plugin. Easily name, rearrange, manage and delete all your sidebars.",
         "version"          : "1.0.2"
@@ -112,6 +126,8 @@
             "featured",
             "favorites"
         ],
+        "view_details"     : "https://wpadminify.com/modules/quick-floating-menu/",
+        "pricing_url"      : "https://wpadminify.com/modules/quick-floating-menu/#pricing",
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-quick-circle-menu&action=download_plugin",
         "short_description": "Adminify Quick Menu - bottom right position for nagivating Menus quickly",
         "version"          : "1.0.0"
@@ -124,7 +140,9 @@
             "all",
             "recommended"
         ],
+        "view_details"     : "https://master-addons.com",
+        "pricing_url"      : "https://master-addons.com/pricing/",
         "download_link"    : "https://downloads.wordpress.org/plugin/master-addons.zip",
-        "short_description": "Master Addons for Elementor"
+        "short_description": "Master Addons comes advanced extensions like Display Condition, Floating Effect, Custom CSS, Tooltip, and Positioning to give you complete control over your website look and feel"
     }
 ]
