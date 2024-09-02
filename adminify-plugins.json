@@ -57,7 +57,7 @@
         "pricing_url"  : "",
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-activity-logs&action=download_plugin",
         "short_description": "Enhance WP Adminify with detailed activity tracking. Monitor user actions, view logs, track changes, widgets, menus, comments, attachments, and more.",
-        "version"          : "1.0.0"
+        "version"          : "1.0.1"
     },
     {
         "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-header-footer-scripts/icon.svg",
@@ -72,7 +72,7 @@
         "pricing_url"  : "https://wpadminify.com/modules/header-footer-scripts/#pricing",
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-header-footer-scripts&action=download_plugin",
         "short_description": "Easily add custom scripts to your WordPress site's header or footer using an intuitive user interface. Perfect for analytics, custom CSS, and more.",
-        "version"          : "1.0.2"
+        "version"          : "1.0.3"
     },
     {
         "icon"             : "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-admin-columns/icon.svg",
@@ -87,7 +87,7 @@
         "view_details" : "https://wpadminify.com/modules/admin-columns/",
         "pricing_url"  : "https://wpadminify.com/modules/admin-columns/#pricing",
         "download_link": "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-admin-columns&action=download_plugin",
-        "version"      : "1.0.4"
+        "version"      : "1.0.5"
     },
     {
         "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-google-pagespeed/icon.svg",
@@ -117,7 +117,7 @@
         "pricing_url"      : "https://wpadminify.com/modules/wordpress-dashboard-widgets/#pricing",
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-sidebar-generator&action=download_plugin",
         "short_description": "Create unlimited custom sidebars with WP Adminify. Requires the Classic Widgets plugin. Easily name, rearrange, manage and delete all your sidebars.",
-        "version"          : "1.0.2"
+        "version"          : "1.0.3"
     },
     {
         "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-quick-circle-menu/icon.svg",
@@ -132,7 +132,7 @@
         "pricing_url"      : "https://wpadminify.com/modules/quick-floating-menu/#pricing",
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-quick-circle-menu&action=download_plugin",
         "short_description": "Adminify Quick Menu - bottom right position for nagivating Menus quickly",
-        "version"          : "1.0.0"
+        "version"          : "1.0.1"
     },
     {
         "icon": "https://ps.w.org/master-addons/assets/icon.svg",
