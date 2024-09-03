@@ -117,7 +117,7 @@
         "pricing_url"      : "https://wpadminify.com/modules/wordpress-dashboard-widgets/#pricing",
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-sidebar-generator&action=download_plugin",
         "short_description": "Create unlimited custom sidebars with WP Adminify. Requires the Classic Widgets plugin. Easily name, rearrange, manage and delete all your sidebars.",
-        "version"          : "1.0.3"
+        "version"          : "1.0.4"
     },
     {
         "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-quick-circle-menu/icon.svg",
