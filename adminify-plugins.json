@@ -102,7 +102,7 @@
         "pricing_url"      : "https://wpadminify.com/modules/google-pagespeed-insights/#pricing",
         "download_link"    : "https://api.wpadminify.com/adminify-update-checker/?plugin_slug=adminify-google-pagespeed&action=download_plugin",
         "short_description": "Track webpage speed from your dashboard with Google Pagespeed Insights. Get mobile and desktop reports, view history, and manage access by user roles.",
-        "version"          : "1.0.0"
+        "version"          : "1.0.1"
     },
     {
         "icon": "https://raw.githubusercontent.com/jeweltheme/adminify-addons-assets/main/adminify-sidebar-generator/icon.svg",
